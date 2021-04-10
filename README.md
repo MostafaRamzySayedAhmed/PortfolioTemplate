@@ -8,4 +8,4 @@
  * CSS
  * CSS3
  * Font Awesome CSS Library
- * Normalize CSS Library
+ * Normalize CSS Library.
